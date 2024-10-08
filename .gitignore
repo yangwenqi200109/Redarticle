@@ -1,0 +1,9 @@
+# Project exclude paths
+/water-basic/water-file-starter/target/
+/water-common/target/
+/water-feign-api/target/
+/water-gateway/water-app-gateway/target/
+/water-model/target/
+/water-service/water-schedule/target/
+/water-service/water-user/target/
+/water-utils/target/

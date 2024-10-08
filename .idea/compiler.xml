@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="water-common" />
+        <module name="water-app-gateway" />
+        <module name="minio-demo" />
+        <module name="water-feign-api" />
+        <module name="water-file-starter" />
+        <module name="water-utils" />
+        <module name="kafka-demo" />
+        <module name="water-user" />
+        <module name="water-wemedia" />
+        <module name="water-model" />
+        <module name="freemarker" />
+        <module name="water-schedule" />
+        <module name="water-article" />
+        <module name="water-wemedia-gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Water_platform" options="-parameters" />
+      <module name="freemarker" options="-parameters" />
+      <module name="kafka-demo" options="-parameters" />
+      <module name="minio-demo" options="-parameters" />
+      <module name="water-app-gateway" options="-parameters" />
+      <module name="water-article" options="-parameters" />
+      <module name="water-basic" options="-parameters" />
+      <module name="water-common" options="-parameters" />
+      <module name="water-feign-api" options="-parameters" />
+      <module name="water-file-starter" options="-parameters" />
+      <module name="water-gateway" options="-parameters" />
+      <module name="water-model" options="-parameters" />
+      <module name="water-schedule" options="-parameters" />
+      <module name="water-service" options="-parameters" />
+      <module name="water-test" options="-parameters" />
+      <module name="water-user" options="-parameters" />
+      <module name="water-utils" options="-parameters" />
+      <module name="water-wemedia" options="-parameters" />
+      <module name="water-wemedia-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>

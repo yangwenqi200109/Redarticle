@@ -1,0 +1,13 @@
+server:
+  port: 51602
+spring:
+  application:
+    name: water-com.ape.wemedia-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+

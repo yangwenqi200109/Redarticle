@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/water-gateway/water-app-gateway/water-app-gateway.iml" filepath="$PROJECT_DIR$/water-gateway/water-app-gateway/water-app-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-common/water-common.iml" filepath="$PROJECT_DIR$/water-common/water-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-feign-api/water-feign-api.iml" filepath="$PROJECT_DIR$/water-feign-api/water-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-basic/water-file-starter/water-file-starter.iml" filepath="$PROJECT_DIR$/water-basic/water-file-starter/water-file-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-gateway/water-gateway.iml" filepath="$PROJECT_DIR$/water-gateway/water-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-model/water-model.iml" filepath="$PROJECT_DIR$/water-model/water-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-service/water-schedule/water-schedule.iml" filepath="$PROJECT_DIR$/water-service/water-schedule/water-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-service/water-service.iml" filepath="$PROJECT_DIR$/water-service/water-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-service/water-user/water-user.iml" filepath="$PROJECT_DIR$/water-service/water-user/water-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-utils/water-utils.iml" filepath="$PROJECT_DIR$/water-utils/water-utils.iml" />
+    </modules>
+  </component>
+</project>

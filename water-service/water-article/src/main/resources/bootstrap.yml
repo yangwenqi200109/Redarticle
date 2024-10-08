@@ -1,0 +1,16 @@
+server:
+  port: 51802
+spring:
+  application:
+    name: water-article
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+
+#  redis:
+#    host: localhost
+#    port: 6379

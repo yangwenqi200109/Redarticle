@@ -1,0 +1,6 @@
+minio:
+  accessKey: root
+  secretKey: ywq2001ywq
+  bucket: apesource
+  endpoint: http://localhost:9005
+  readPath: http://localhost:9005
